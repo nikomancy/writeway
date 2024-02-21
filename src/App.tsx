@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import MarkdownEditor from './markdownEditor'
+import MarkdownEditor from './MarkdownEditor'
 import './App.css'
 
 function App() {
